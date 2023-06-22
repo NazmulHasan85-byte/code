@@ -1,0 +1,21 @@
+.header-section {
+    display: flex;
+    align-items: center;
+}
+.searchbox{
+    border: 2px solid black;
+    max-width: 20%;
+    align-items: center;
+    border-radius: 100px;
+    margin-right: 10%;
+    margin-left: 10%;
+    padding-left: 10%;
+    padding-right: 5%;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    
+}
+.imglot{
+    width: 50%;
+   
+}
