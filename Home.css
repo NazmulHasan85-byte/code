@@ -14,14 +14,24 @@ body{
 }
 
 .cerousel{
-    width: 60%;
+    width: 70%;
     height: 500px;
-    margin-left: 20% ;
-    margin-top: 2%;
+    margin-left: 15% ;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+.Services{
+    color: rgb(255, 255, 255);
+    text-align: Center;
+    margin-bottom: 50px;
 }
 .audit{
     color: rgb(253, 254, 255);
     max-width: 70%;
     margin-left: 15%;
-    margin-bottom: 1%;
+    margin-bottom: 2%;
+    
+}
+.rowname{
+    color: rgb(255, 255, 255);
 }
