@@ -1,0 +1,27 @@
+body{
+  margin: 0%;
+  padding: 0%;
+ 
+}
+
+.Home-Top{
+    width: 80%;
+    margin-left: 9%;
+}
+.top-speech{
+    color: rgb(250, 252, 254);
+    margin-top: 2%;
+}
+
+.cerousel{
+    width: 60%;
+    height: 500px;
+    margin-left: 20% ;
+    margin-top: 2%;
+}
+.audit{
+    color: rgb(253, 254, 255);
+    max-width: 70%;
+    margin-left: 15%;
+    margin-bottom: 1%;
+}
