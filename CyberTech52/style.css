@@ -1,21 +1,22 @@
-.header-section {
-    display: flex;
-    align-items: center;
+body{
+    margin: 0px;
+    padding: 0%;
 }
-.searchbox{
-    border: 2px solid black;
-    max-width: 20%;
-    align-items: center;
-    border-radius: 100px;
-    margin-right: 10%;
-    margin-left: 10%;
-    padding-left: 10%;
-    padding-right: 5%;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    
+
+.lostof{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    background-color: black;
 }
-.imglot{
-    width: 50%;
-   
+.Name {
+   text-align: center;
+   color: rgb(45, 191, 240);
+   padding-bottom: 5px;
+   padding-top: 10px;
+}
+.name {
+   text-align: center;
+   color: rgb(231, 245, 250);
+   padding-bottom: 15px;
+  
 }
